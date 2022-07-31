@@ -1,0 +1,6 @@
+﻿  2form.cpp
+  main.cpp
+  Generating Code...
+  2form.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : error LNK2001: unresolved external symbol main
+C:\Users\mindc1may174\source\repos\form1\x64\Debug\form1.exe : fatal error LNK1120: 1 unresolved externals
